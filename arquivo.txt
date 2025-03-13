@@ -1,0 +1,21 @@
+commit 01d7ee0e4fae402947b78aa05b8a3550745c33bd (HEAD -> main, origin/main)
+Author: jehbzr <jessicabezerrra951@gmail.com>
+Date:   Tue Mar 11 22:24:36 2025 -0300
+
+    mudando a mensagem do jogo
+
+commit 794dbc08311840c7fb3a2787cf49278c920713a4
+Author: jehbzr <jessicabezerrra951@gmail.com>
+Date:   Tue Mar 11 15:46:35 2025 -0300
+
+    Deixando o jogo mais fácil
+
+commit 4af2e3ff1ae09def6477780cf3b474daf5adbde4
+Author: unknown <jessicabezerra951@gmail.com>
+Date:   Mon Mar 10 11:45:47 2025 -0300
+
+     alterando o limite para 100
+
+commit 15627e18947f7cfa91b9c3043c7a879035f531e1
+Author: unknown <jessicabezerra951@gmail.com>
+Date:   Thu Feb 27 21:25:10 2025 -0300
